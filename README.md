@@ -15,4 +15,12 @@ Este arquivo é um currículo/portfolio sobre mim feito em HTML, passível de fu
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[testes.py]
+[testes.py] 
+
+Um sistema de cadastro simples em Python, ele pede:
+ 
+- Nome do usuário
+- E-mail
+- Senha
+
+Ele imprime: "Cadrasto realizado!" e depois: "Bem-vindo(a) + Nome"
