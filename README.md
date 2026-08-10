@@ -24,3 +24,11 @@ Um sistema de cadastro simples em Python, ele pede:
 - Senha
 
 Ele imprime: "Cadrasto realizado!" e depois: "Bem-vindo(a) + Nome"
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+<!-- Badges de Tecnologias -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
