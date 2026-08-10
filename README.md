@@ -11,3 +11,8 @@ Este arquivo é de uma atividade introdutória ao Python; com testes de variáve
 [index.html](https://github.com/thiagovailate-ship-it/Projetos-Faculdade/blob/main/index.html)
 
 Este arquivo é um currículo/portfolio sobre mim feito em HTML, passível de futuras modificações.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+[testes.py]
