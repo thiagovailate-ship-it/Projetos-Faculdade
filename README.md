@@ -1,31 +1,26 @@
-# Projetos-Faculdade
-Repositório específico para demonstrar projetos da faculdade de ADS e afins.
-------------------------------------------------------------------------------------------------------------------------------------------
+# Projetos da Faculdade
 
-[main.py](https://github.com/user-attachments/files/30901375/main.py)
+Repositório destinado ao armazenamento e organização dos projetos, atividades e exercícios desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-Este arquivo é de uma atividade introdutória ao Python; com testes de variáveis, imprimir variáveis e etc.
+## Projetos
 
-------------------------------------------------------------------------------------------------------------------------------------------
+### 🐍 main.py
+Atividade introdutória em Python, envolvendo declaração de variáveis, manipulação de dados e exibição de informações.
 
-[index.html](https://github.com/thiagovailate-ship-it/Projetos-Faculdade/blob/main/index.html)
+### 🌐 index.html
+Currículo/portfólio pessoal desenvolvido em HTML, sujeito a futuras melhorias e modificações.
 
-Este arquivo é um currículo/portfolio sobre mim feito em HTML, passível de futuras modificações.
+### 📝 testes.py
+Sistema simples de cadastro em Python.
 
+O programa solicita:
 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-[testes.py](https://github.com/thiagovailate-ship-it/Projetos-Faculdade/blob/main/testes.py)
-
-Um sistema de cadastro simples em Python, ele pede:
- 
 - Nome do usuário
 - E-mail
 - Senha
 
-Ele imprime: "Cadrasto realizado!" e depois: "Bem-vindo(a) + Nome"
+Ao final, exibe uma mensagem confirmando o cadastro e dá as boas-vindas ao usuário.
 
-------------------------------------------------------------------------------------------------------------------------------------------
 
 <!-- Badges de Tecnologias -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
