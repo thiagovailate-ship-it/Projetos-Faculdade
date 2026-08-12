@@ -1,25 +1,33 @@
-# Projetos da Faculdade
-
-Repositório destinado ao armazenamento e organização dos projetos, atividades e exercícios desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
-
 ## Projetos
 
 ### 🐍 main.py
+
 Atividade introdutória em Python, envolvendo declaração de variáveis, manipulação de dados e exibição de informações.
 
 ### 🌐 index.html
+
 Currículo/portfólio pessoal desenvolvido em HTML, sujeito a futuras melhorias e modificações.
 
 ### 📝 testes.py
+
 Sistema simples de cadastro em Python.
 
 O programa solicita:
-
 - Nome do usuário
 - E-mail
-- Senha
+- Outras informações básicas
 
-Ao final, exibe uma mensagem confirmando o cadastro e dá as boas-vindas ao usuário.
+### 🔫 roleta-russa.py
+
+Jogo simples desenvolvido em Python utilizando conceitos fundamentais de lógica de programação.
+
+O programa utiliza:
+- Geração de números aleatórios com a biblioteca `random`
+- Entrada de dados pelo usuário
+- Estruturas condicionais (`if/else`)
+- Comparação de valores
+
+O jogador escolhe uma posição do tambor (1 a 6), enquanto o programa sorteia aleatoriamente a posição da bala e informa se o jogador sobreviveu ou perdeu.
 
 
 <!-- Badges de Tecnologias -->
